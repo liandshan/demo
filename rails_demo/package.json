@@ -1,0 +1,7 @@
+{
+  "name": "rails_demo",
+  "private": true,
+  "dependencies": {
+    "iview": "^3.5.3"
+  }
+}
